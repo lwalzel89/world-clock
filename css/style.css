@@ -26,13 +26,14 @@ footer {
   text-align: center;
   font-size: 18px;
   color: rgba(0, 0, 0, 0.8);
+  padding: 30px;
 }
 
 .container {
   background: white;
   max-width: 600px;
-  margin: 60 auto;
-  padding: 20px;
+  margin: 0 auto;
+  padding: 30px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   border-radius: 10px;
 }
