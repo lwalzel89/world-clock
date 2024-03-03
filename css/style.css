@@ -1,6 +1,8 @@
 body {
-  background-color: #f9f7fe;
+  background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/117/396/original/amy-shamblen-z5HFdgL4Np8-unsplash.jpg?1709471145);
+  background-size: cover;
   font-family: sans-serif;
+  color: rgb(255, 255, 255);
 }
 
 h1 {
@@ -11,6 +13,8 @@ h1 {
 
 select {
   font-size: 18px;
+  color: rgb(183, 142, 210);
+  background-color: rgb(255, 255, 255);
   width: 100%;
   display: block;
   border-radius: 4px;
@@ -25,12 +29,14 @@ h2 {
 footer {
   text-align: center;
   font-size: 18px;
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(255, 255, 255, 0.8);
   padding: 30px;
 }
-
+a {
+  color: rgb(209, 55, 45);
+}
 .container {
-  background: white;
+  background: rgba(183, 142, 210, 0.7);
   max-width: 600px;
   margin: 0 auto;
   padding: 30px;
